@@ -1,0 +1,13 @@
+/* Write CSS Here */
+body {
+	text-align: center !important;
+    font-family: tahoma !important;
+}
+.geeks {
+	font-size: 40px;
+	font-weight: bold;
+	color: green;
+}
+.backg{
+    background-color: 	Azure;
+}
